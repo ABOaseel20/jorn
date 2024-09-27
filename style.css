@@ -90,7 +90,7 @@
             }
             
             .container {
-                padding: 10px 40px;
+                padding: 10px 60px;
             }
             
             .slc a {
@@ -118,6 +118,7 @@
             .container .ff {
                 display: block;
                 margin-bottom: 10px;
+                        padding:10px;
             }
             
             .container .b {
